@@ -1,7 +1,7 @@
 # Django Example
 This is an example Django project, based on Corey Schafer's YouTube tutorials.
 
-Django is the web framework for perfectionsists with deadlines.
+Django is the web framework for perfectionists with deadlines.
 
 This project uses Python 3.7.
 
